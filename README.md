@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Bharath Yadav
+# Hi 👋 I'm Bharath Yadav
 
 ### AI & Full Stack Developer • Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
 
 <br>
 
@@ -17,14 +17,8 @@
 </a>
 
 <a href="https://github.com/bharathyadav-7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/bharathyadav-7?style=flat-square"/>
 </a>
-
-<a href="https://x.com/bharathyadav_07">
-<img src="https://img.shields.io/badge/Twitter(X)-000000?style=flat-square&logo=x&logoColor=white"/>
-</a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=bharathyadav-7&style=flat-square&color=7F5AF0"/>
 
@@ -32,19 +26,21 @@
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Undergraduate (2nd Year) @ **SRM University AP**
-- 🤖 AI & Full Stack Developer
-- 🧠 Machine Learning Enthusiast
-- 🌱 Currently learning **Machine Learning, Deep Learning, Docker, AWS & DSA**
-- 💡 Passionate about solving real-world problems using AI and scalable web technologies.
+```yaml
+Name      : Bharath Yadav
+Education : B.Tech @ SRM University AP
+Role      : AI & Full Stack Developer
+Learning  : ML • DL • Docker • AWS • DSA
+Location  : Andhra Pradesh 🇮🇳
+```
 
-> *"Stay curious. Build consistently. Grow endlessly."*
+> *Stay curious. Build consistently. Grow endlessly.*
 
 ---
 
-# Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -56,49 +52,34 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/ScikitLearn-orange?style=flat-square&logo=scikitlearn"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
 
-<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-blue?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Random_Forest-228B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/RandomForest-green?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/SVM-6A5ACD?style=flat-square"/>
+<img src="https://img.shields.io/badge/SVM-purple?style=flat-square"/>
 
 </p>
 
 ---
 
-# Featured Projects
+# 🚀 Featured Projects
 
-### 🍽️ Online Food Ordering System
-
-A full-stack MERN application featuring authentication, menu management, cart, online ordering, and an admin dashboard.
-
----
-
-### 🧠 Wart Disease Prediction
-
-Machine Learning project that predicts wart treatment outcomes using classification models including XGBoost, Random Forest, and SVM.
+| Project | Description |
+|---------|-------------|
+| 🍽️ **Online Food Ordering System** | MERN Stack application with authentication, ordering and admin dashboard |
+| 🧠 **Wart Disease Prediction** | Machine Learning project using Random Forest, XGBoost & SVM |
+| 🤖 **AI Resume Assistant** | AI-powered resume analysis and career recommendation platform |
+| 💼 **MicroInternships** | Internship platform connecting students with startups |
 
 ---
 
-### 🤖 AI Resume Assistant
-
-An AI-powered resume analysis tool that helps users improve resumes and provides personalized career guidance.
-
----
-
-### 💼 MicroInternships Platform
-
-A platform connecting students with internship opportunities while helping them build practical skills through real-world projects.
-
----
-
-# GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -118,43 +99,59 @@ A platform connecting students with internship opportunities while helping them 
 
 ---
 
-# Certification
-
-🏅 **MongoDB Associate Developer**
-
----
-
-# Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Docker
-- AWS Cloud
-- Data Structures & Algorithms
-
----
-
-# Open to Collaborate
-
-- Open Source Projects
-- AI & Machine Learning Projects
-- MERN Stack Applications
-- Startup Ideas
-- Internship Opportunities
-
----
-
-# Contribution Graph
+# 🎯 Currently Exploring
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bharathyadav-7/bharathyadav-7/output/github-contribution-grid-snake-dark.svg"/>
+| 🤖 AI | 🧠 Deep Learning | 🐳 Docker |
+|:---:|:---:|:---:|
+| ⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐☆☆ |
+
+| ☁ AWS | 📚 DSA | 🚀 System Design |
+|:---:|:---:|:---:|
+| ⭐⭐☆☆☆ | ⭐⭐⭐⭐☆ | ⭐⭐☆☆☆ |
 
 </div>
 
 ---
 
-# Connect With Me
+# 🤝 Open to Collaborate
+
+<div align="center">
+
+| 💡 Opportunity | Status |
+|---------------|--------|
+| Open Source | ✅ |
+| AI Projects | ✅ |
+| Full Stack Development | ✅ |
+| Research Projects | ✅ |
+| Internship Opportunities | ✅ |
+
+</div>
+
+---
+
+# 🏅 Certification
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-Associate_Developer-13AA52?style=for-the-badge&logo=mongodb"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+> **Enable the Snake GitHub Action first.**
+
+```markdown
+![Snake animation](https://raw.githubusercontent.com/bharathyadav-7/bharathyadav-7/output/github-contribution-grid-snake-dark.svg)
+```
+
+---
+
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -171,7 +168,7 @@ A platform connecting students with internship opportunities while helping them 
 </a>
 
 <a href="https://x.com/bharathyadav_07">
-<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x"/>
+<img src="https://img.shields.io/badge/X-black?style=flat-square&logo=x"/>
 </a>
 
 </div>
@@ -180,10 +177,10 @@ A platform connecting students with internship opportunities while helping them 
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
 *"Code with purpose. Learn with curiosity. Build with passion."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7F5AF0&section=footer"/>
 
 </div>
