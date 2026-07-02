@@ -68,14 +68,6 @@ Location  : Andhra Pradesh 🇮🇳
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🍽️ **Online Food Ordering System** | MERN Stack application with authentication, ordering and admin dashboard |
-| 🧠 **Wart Disease Prediction** | Machine Learning project using Random Forest, XGBoost & SVM |
-| 🤖 **AI Resume Assistant** | AI-powered resume analysis and career recommendation platform |
-| 💼 **MicroInternships** | Internship platform connecting students with startups |
 
 ---
 
