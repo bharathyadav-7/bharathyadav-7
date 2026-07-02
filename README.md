@@ -129,14 +129,11 @@ Location  : Andhra Pradesh 🇮🇳
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Graph
 
-> **Enable the Snake GitHub Action first.**
-
-```markdown
-![Snake animation](https://raw.githubusercontent.com/bharathyadav-7/bharathyadav-7/output/github-contribution-grid-snake-dark.svg)
-```
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bharathyadav-7/bharathyadav-7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ---
 
 # 📫 Connect With Me
