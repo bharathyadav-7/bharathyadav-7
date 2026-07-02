@@ -2,9 +2,9 @@
 
 # Hi 🍃 I'm Bharath Yadav
 
-### AI & Full Stack Developer • Machine Learning Enthusiast
+### AI & Full Stack Developer • Machine Learning Enthusiast • DSA Learner 
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Intelligent+Applications;Always+Learning+New+Technologies;DSA+Learner" />
 
 <br>
 
