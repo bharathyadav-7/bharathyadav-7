@@ -1,21 +1,34 @@
-# 🌌 Hi there, I'm Bharath Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+<!-- ===================================================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Smart+Solutions+with+Code;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</p>
+<!--        PREMIUM GITHUB PROFILE README - Bharath Yadav -->
 
-<p align="center">
-  <a href="https://github.com/bharathyadav-7">
-    <img src="https://img.shields.io/github/followers/bharathyadav-7?label=Followers&style=for-the-badge&color=7F5AF0"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bharathyadav-7&style=for-the-badge&color=7F5AF0"/>
-</p>
+<!-- ===================================================== -->
+
+<div align="center">
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Bharath Yadav
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=7F5AF0&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Machine+Learning+Enthusiast;Building+Real+World+Solutions;Always+Learning+New+Technologies+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=bharathyadav-7&style=for-the-badge&color=7F5AF0"/>
+
+<a href="https://github.com/bharathyadav-7">
+<img src="https://img.shields.io/github/followers/bharathyadav-7?style=for-the-badge&logo=github&color=7F5AF0"/>
+</a>
+
+<a href="https://github.com/bharathyadav-7">
+<img src="https://img.shields.io/github/stars/bharathyadav-7?affiliations=OWNER&style=for-the-badge&color=7F5AF0"/>
+</a>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+<img align="right" width="340" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+# 💫 About Me
 
 🎓 B.Tech Undergraduate (2nd Year) at **SRM University AP**
 
@@ -23,169 +36,196 @@
 
 🧠 Machine Learning Enthusiast
 
-🌱 Currently exploring **Machine Learning, Deep Learning, Docker, AWS and DSA**
+🌱 Currently exploring
 
-💡 I enjoy transforming ideas into real-world applications that solve practical problems.
+* Machine Learning
+* Deep Learning
+* Docker
+* AWS
+* Data Structures & Algorithms
 
-🎯 Aspiring Full Stack Developer passionate about AI and modern web technologies.
+💡 Passionate about building intelligent software that solves real-world problems.
 
-> **"Stay curious. Build consistently. Grow endlessly."** ✨
+🎯 Aspiring Full Stack Developer focused on AI-powered applications and scalable web technologies.
+
+> ### ✨ *"Stay curious. Build consistently. Grow endlessly."*
+
+<br>
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ Tech Arsenal
 
 ### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/>
+</p>
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
+</p>
 
 ### ⚙ Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
 
-### 🗄 Databases
+### 🗄 Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+### ☁ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws"/>
+</p>
 
 ### 🤖 Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-6A5ACD?style=for-the-badge)
+<p>
 
-### 🛠 Tools
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/SVM-6A5ACD?style=for-the-badge">
+
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharathyadav-7&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bharathyadav-7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathyadav-7&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
+</div>
+
+<br>
+
+<div align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bharathyadav-7&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bharathyadav-7&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bharathyadav-7&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
-* 🧠 Machine Learning
-* 🤖 Deep Learning
-* 🐳 Docker
-* ☁ AWS
-* 💻 Data Structures & Algorithms
-
----
-
-# 🎯 Career Goal
-
-> Become a skilled **Full Stack Developer** capable of building intelligent, scalable, and impactful software powered by Artificial Intelligence.
+```text
+✔ Machine Learning
+✔ Deep Learning
+✔ Docker
+✔ AWS Cloud
+✔ Data Structures & Algorithms
+```
 
 ---
 
-# 📜 Certifications
+# 🤝 Open To Collaborate
 
-🏅 **MongoDB Associate Developer**
+✨ Open Source
 
----
+🤖 AI & Machine Learning
 
-# 🤝 Open to Collaborate
+🌐 MERN Stack Projects
 
-* 🚀 Open Source Projects
-* 💡 AI & Machine Learning Projects
-* 🌐 Full Stack Applications
-* 💼 Internship Opportunities
-* 📚 Research & Innovative Ideas
+🚀 Startup Ideas
+
+💼 Internship Opportunities
 
 ---
 
-# 💬 Random Dev Quote
+# 📜 Certification
 
-<p align="center">
+🏅 MongoDB Associate Developer
+
+---
+
+# 💭 Developer Quote
+
+<div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+
+</div>
 
 ---
 
-# 🎵 Spotify
+# 🐍 Contribution Graph
 
-> Connect your Spotify account later to display your currently playing track.
+<div align="center">
 
----
-
-# 💻 LeetCode Stats
-
-> Add your LeetCode username later to display your coding statistics.
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/bharathyadav-7/bharathyadav-7/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
+</div>
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<div align="center">
+
 <a href="mailto:bharathyadav.katuru07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bharath-yadav-2b3524325/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://x.com/bharathyadav_07">
-<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x"/>
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
 </a>
 
 <a href="https://github.com/bharathyadav-7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### ✨ *"Code with purpose. Learn with curiosity. Build with passion."*
+## ⚡ Fun Fact
 
-⭐ **Thanks for visiting my profile! Have a wonderful day!** ⭐
+> *"The best way to predict the future is to build it."*
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathyadav-7&theme=tokyonight"/>
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider following me and starring my repositories.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F5AF0&height=120&section=footer"/>
+
+</div>
