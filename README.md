@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 🍃 I'm Bharath Yadav
+# Hi 🍃 I'm Bharath
 
 ### AI & Full Stack Developer • Machine Learning Enthusiast • DSA Learner 
 
